@@ -1,0 +1,6 @@
+homePage
+`````````
+1. usernameEnter - lineEdit - enter username
+2. passwordEnter - lineEdit - enter password
+3. loginBut      - pushButton - login
+4. signupBut     - pushButton - sign up
